@@ -4,15 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99dbd39b-ccf8-47e4-93d7-3c83048e66c2" name="Changes" comment="" />
+    <list default="true" id="99dbd39b-ccf8-47e4-93d7-3c83048e66c2" name="Changes" comment="* first commit&#10;* established main &amp; imported Scanner">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/HighScoreWins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/HighScoreWins.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "robertCheeto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/robertCheeto/HighScoreWins",
+    "accountId": "9a28861d-3046-441c-b3b9-71f0fc00ab2f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -24,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HighScoreWins.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -38,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759169926784</updated>
     </task>
+    <task id="LOCAL-00001" summary="* first commit&#10;* established main &amp; imported Scanner">
+      <option name="closed" value="true" />
+      <created>1759170031921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759170031921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* first commit&#10;* established main &amp; imported Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="* first commit&#10;* established main &amp; imported Scanner" />
   </component>
 </project>

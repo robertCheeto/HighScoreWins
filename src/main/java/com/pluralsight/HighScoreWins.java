@@ -14,10 +14,6 @@ public class HighScoreWins {
         String[] teamNames = boxScoreInfo[0].split("\\:");
         String[] teamScores = boxScoreInfo[1].split("\\:");
 
-        // below is a test statement to see if the boxScoreInfo[] was able to be broken into two separate arrays
-        //System.out.println(teamNames[0] + " " + teamNames[1] + "<- team names | scores -> " + teamScores[0] + " " + teamScores[1]);
-
-        //converting scores to Ints
         int homeTeamScore = Integer.parseInt(teamScores[0]);
         int awayTeamScore = Integer.parseInt(teamScores[1]);
 
@@ -30,6 +26,5 @@ public class HighScoreWins {
         else {
             System.out.printf("Both teams tied at: %d-%d", homeTeamScore, awayTeamScore);
         } // end of else
-
     } // end main
 }
